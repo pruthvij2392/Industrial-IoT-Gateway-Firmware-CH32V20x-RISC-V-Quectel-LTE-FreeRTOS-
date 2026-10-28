@@ -1,0 +1,10 @@
+# Build output directory (MounRiver Studio / GCC)
+obj/
+*.o
+*.d
+*.elf
+*.map
+*.lst
+
+# IDE local cache / snapshots
+.mrs/
