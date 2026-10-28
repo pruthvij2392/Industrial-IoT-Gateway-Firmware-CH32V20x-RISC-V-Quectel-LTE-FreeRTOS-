@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/New System 2/Documents/Finale Firmware code/IOT_GATEWAY_V6",
-      "program": "c:/Users/New System 2/Documents/Finale Firmware code/IOT_GATEWAY_V6/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
